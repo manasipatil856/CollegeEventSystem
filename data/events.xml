@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <id>1</id>
+        <title>Coding Competition</title>
+        <category>technical</category>
+        <college>SITRC</college>
+        <date>2026-11-15</date>
+        <startTime>10:00 AM</startTime>
+        <endTime>01:00 PM</endTime>
+        <venue>Building A</venue>
+        <image>classroom.jpg</image>
+        <importance>Develops logical thinking, programming skills and teamwork.</importance>
+        <description>Participate in a coding competition to solve programming challenges and test your problem-solving skills.</description>
+        <organizer>Technical Club</organizer>
+        <eligibility>College students</eligibility>
+        <registration>Contact the event organizer for registration.</registration>
+    </event>
+
+    <event>
+        <id>2</id>
+        <title>Technical Workshop</title>
+        <category>workshop</category>
+        <college>SITRC</college>
+        <date>2026-11-20</date>
+        <startTime>11:00 AM</startTime>
+        <endTime>02:00 PM</endTime>
+        <venue>Building B</venue>
+        <image>classroom.jpg</image>
+        <importance>Helps students gain practical knowledge and learn new technologies.</importance>
+        <description>A learning session covering technical concepts, demonstrations and hands-on activities.</description>
+        <organizer>Department Technical Team</organizer>
+        <eligibility>Interested students</eligibility>
+        <registration>Contact the event organizer for registration.</registration>
+    </event>
+
+    <event>
+        <id>3</id>
+        <title>Cultural Festival</title>
+        <category>fest</category>
+        <college>SUN</college>
+        <date>2026-11-25</date>
+        <startTime>04:00 PM</startTime>
+        <endTime>08:00 PM</endTime>
+        <venue>Amphitheatre</venue>
+        <image>cultural-fest.jpeg</image>
+        <importance>Encourages creativity, cultural expression and interaction among students.</importance>
+        <description>A cultural celebration featuring performances, music, dance and student activities.</description>
+        <organizer>Student Cultural Committee</organizer>
+        <eligibility>Students and invited participants</eligibility>
+        <registration>Check with the organizing committee for entry details.</registration>
+    </event>
+
+    <event>
+        <id>4</id>
+        <title>Annual Sports Day</title>
+        <category>sports</category>
+        <college>SIEM</college>
+        <date>2026-03-10</date>
+        <startTime>09:00 AM</startTime>
+        <endTime>04:00 PM</endTime>
+        <venue>College Sports Ground</venue>
+        <image>campus-aerial.jpeg</image>
+        <importance>Promotes fitness, discipline, sportsmanship and teamwork.</importance>
+        <description>A sports event featuring games, athletic activities and friendly competition.</description>
+        <organizer>Sports Committee</organizer>
+        <eligibility>Registered student participants</eligibility>
+        <registration>Contact the sports committee for participation details.</registration>
+    </event>
+
+    <event>
+        <id>5</id>
+        <title>Traditional Day</title>
+        <category>non-technical</category>
+        <college>SITRC</college>
+        <date>2026-03-20</date>
+        <startTime>10:00 AM</startTime>
+        <endTime>03:00 PM</endTime>
+        <venue>Building E</venue>
+        <image>cultural-fest.jpeg</image>
+        <importance>Celebrates cultural diversity and encourages student participation.</importance>
+        <description>A themed college celebration with traditional clothing, cultural activities and student interaction.</description>
+        <organizer>Student Cultural Committee</organizer>
+        <eligibility>College students</eligibility>
+        <registration>Check with the organizing committee for participation details.</registration>
+    </event>
+</events>
